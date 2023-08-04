@@ -38,7 +38,7 @@ export default function Login() {
 
     return (
         <div className="container">
-            <h1 className='text-center my-3'>Login</h1>
+            <h1 className='text-center my-3'>Login to INotebook</h1>
 
             <form onSubmit={handleSubmit}>
                 <div className="mb-3">

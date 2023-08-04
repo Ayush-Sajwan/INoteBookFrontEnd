@@ -44,7 +44,7 @@ export default function Signup() {
 
   return (
     <div className="container">
-      <h1 className='text-center my-3'>Signup</h1>
+      <h1 className='text-center my-3'>Signup to Inotebook</h1>
 
       <form onSubmit={handleSubmit}>
         <div className="mb-3">
